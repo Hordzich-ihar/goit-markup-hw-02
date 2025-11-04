@@ -160,12 +160,11 @@ font-family: "Roboto", sans-serif;
     text-transform: capitalize;
 }
 .ourteam-list {
-
 }
 
 .ourteam-item {
     text-align: center;
-
+background-color: #FFFFFF
 }
 
 .ourteam-title {
